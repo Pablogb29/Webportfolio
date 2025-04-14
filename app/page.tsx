@@ -22,6 +22,14 @@ export default function Home() {
     "contact-section"
   ];
 
+  // If you have any fetch calls in your component, make sure they use absolute URLs
+  // For example, change:
+  // fetch('/pipeline')
+  // to:
+  // fetch(`${window.location.origin}/pipeline`)
+  // or use a full URL like:
+  // fetch('https://your-api-domain.com/pipeline')
+
   return (
     <>
       <VerticalNav sections={sectionIds} />
