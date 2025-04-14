@@ -576,11 +576,11 @@ export default function Home() {
             </Card>
             
             {/* Email Card - Now centered in a full-width row */}
-            <Card className="sm:col-span-2">
+            <Card>
               <Link
                 href="mailto:pabloinfosec@gmail.com"
                 target="_blank"
-                className="p-4 relative flex flex-col items-center gap-4 duration-700 group md:gap-6 md:py-12">
+                className="p-4 relative flex flex-col items-center gap-4 duration-700 group md:gap-6 md:py-12 sm:col-span-2">
                 <span
                   className="absolute w-px h-2/3 bg-gradient-to-b from-zinc-500 via-zinc-500/50 to-transparent"
                   aria-hidden="true"
@@ -600,11 +600,11 @@ export default function Home() {
             </Card>
             
             {/* HackTheBox Card - Now centered in a full-width row */}
-            <Card className="sm:col-span-2">
+            <Card>
               <Link
                 href="https://app.hackthebox.com/users/653281"
                 target="_blank"
-                className="p-4 relative flex flex-col items-center gap-4 duration-700 group md:gap-6 md:py-12">
+                className="p-4 relative flex flex-col items-center gap-4 duration-700 group md:gap-6 md:py-12 sm:col-span-2">
                 <span
                   className="absolute w-px h-2/3 bg-gradient-to-b from-zinc-500 via-zinc-500/50 to-transparent"
                   aria-hidden="true"
