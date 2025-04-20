@@ -7,18 +7,18 @@ import { Analytics } from "./components/analytics";
 export const metadata: Metadata = {
   title: {
     default: "Pablo - InfoSec",
-    template: "%s | pablo.com",
+    template: "%s | pabloinfosec.com",
   },
   description: "Co-founder of unkey.dev and founder of planetfall.io",
   openGraph: {
-    title: "chronark.com",
+    title: "pabloinfosec.com",
     description:
       "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
+    url: "https://pabloinfosec.com",
+    siteName: "pabloinfosec.com",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "https://pabloinfosec.com/og.png",
         width: 1920,
         height: 1080,
       },
