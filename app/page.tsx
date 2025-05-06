@@ -470,7 +470,7 @@ export default function Home() {
                 <div className="mt-4">
                   <p className="text-sm text-zinc-400">
                     <span className="text-teal-400 font-semibold">Master's Thesis: </span>
-                    <span className="italic">"Active Directory Lab"</span>
+                    <span className="italic">"Building and Breaking an Active Directory Environment"</span>
                   </p>
                 </div>
                 <div className="mt-4 flex flex-wrap gap-2">
