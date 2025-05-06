@@ -22,14 +22,6 @@ export default function Home() {
     "contact-section"
   ];
 
-  // If you have any fetch calls in your component, make sure they use absolute URLs
-  // For example, change:
-  // fetch('/pipeline')
-  // to:
-  // fetch(`${window.location.origin}/pipeline`)
-  // or use a full URL like:
-  // fetch('https://your-api-domain.com/pipeline')
-
   return (
     <>
       <VerticalNav sections={sectionIds} />
@@ -67,9 +59,12 @@ export default function Home() {
             <div className="md:col-span-2">
               <div className="prose prose-invert max-w-none">
                 <p className="text-zinc-300 text-lg leading-relaxed mb-4">
-                  I am a Telecommunications Engineer who specializes in <span className="text-blue-400 font-medium"> Cybersecurity and Artificial Intelligence</span> , driven by a lifelong passion for technology and digital protection. While I have developed some AI models, my main focus lies in exploring and leveraging the full potential of existing AI systems to streamline workflows and optimize productivity.                </p>
+                  I am a Telecommunications Engineer who specializes in <span className="text-blue-400 font-medium"> Cybersecurity and Artificial Intelligence</span> , driven by a lifelong passion for technology and digital protection.</p>
                 <p className="text-zinc-400 leading-relaxed mb-4">
                   On the cybersecurity front, I have recently completed a master's degree in the field and am actively preparing for the <span className="text-blue-400 font-medium">eJPTv2</span> and, later this year, the <span className="text-blue-400 font-medium">OSCP</span> certification. Although I am still seeking my first professional role in cybersecurity, I have been fully committed to the discipline for years—building skills through hands-on labs, weekly CTFs, and real-world projects that feed my curiosity and problem-solving mindset.
+                </p>
+                <p className="text-zinc-400 leading-relaxed mb-4">
+                  In parallel, I have developed and deployed several AI models, but my main focus lies in leveraging existing AI systems to automate workflows, enhance decision-making, and boost productivity in cybersecurity and software validation tasks.
                 </p>
                 <p className="text-zinc-400 leading-relaxed">
                 What sets me apart is my <span className="text-blue-400 font-medium">constant drive to improve</span>—not only myself, but those around me. I thrive in team environments, love mentoring and being mentored, and naturally take on leadership roles that encourage collaboration, innovation, and growth.
