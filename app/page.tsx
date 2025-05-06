@@ -320,7 +320,6 @@ export default function Home() {
                   Leading the QA team in mobile and architecture car validation for SEAT & CUPRA applications, while balancing technical and managerial responsibilities.
                 </p>
                 <ul className="mt-3 space-y-1 text-zinc-400 group-hover:text-zinc-300 transition-colors duration-300 list-disc list-inside text-sm">
-                  <li>Leading the QA team in the mobile and architecture car validation of SEAT & CUPRA apps</li>
                   <li>Coordinating daily activities and distributing tasks among team members</li>
                   <li>Acting as a point of contact for client communication and feedback loops</li>
                   <li>Delivering weekly and monthly project tracking reports and presentations</li>
