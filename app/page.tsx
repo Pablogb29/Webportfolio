@@ -354,7 +354,7 @@ export default function Home() {
                   <li>Vehicle architecture validator for SEAT & CUPRA</li>
                   <li>Creation of Test Plans and Test Cases</li>
                   <li>Log reading for applications, back-end, and vehicles</li>
-                  <li>Use of tools such as ODIS, Serial2, dataloggers, Datadog, Kibana, Figma, Zeplin, and Jira, among others</li>
+                  <li>Use of tools such as Wireshark, dataloggers, Datadog, Kibana, Figma, Zeplin, and Jira, among others</li>
                   <li>Automation of mobile applications with XCode, Python, Appium and Selenium</li>
                 </ul>
                 <div className="mt-4 flex flex-wrap gap-2">
