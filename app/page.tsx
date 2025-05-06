@@ -347,15 +347,15 @@ export default function Home() {
                   <span className="text-zinc-400">Barcelona, Spain</span>
                 </div>
                 <p className="text-zinc-400 group-hover:text-zinc-300 transition-colors duration-300">
-                  Performed comprehensive validation and testing for automotive applications and vehicle architecture for Seat and Cupra brands.
+                  Performed comprehensive validation and testing for automotive applications and vehicle architecture for SEAT & CUPRA brands.
                 </p>
                 <ul className="mt-3 space-y-1 text-zinc-400 group-hover:text-zinc-300 transition-colors duration-300 list-disc list-inside text-sm">
-                  <li>Mobile app validator for Seat and Cupra brands</li>
-                  <li>Vehicle architecture validator for Seat and Cupra</li>
+                  <li>Mobile app validator for SEAT & CUPRA brands</li>
+                  <li>Vehicle architecture validator for SEAT & CUPRA</li>
                   <li>Creation of Test Plans and Test Cases</li>
                   <li>Log reading for applications, back-end, and vehicles</li>
                   <li>Use of tools such as ODIS, Serial2, dataloggers, Datadog, Kibana, Figma, Zeplin, and Jira, among others</li>
-                  <li>Automation of mobile applications</li>
+                  <li>Automation of mobile applications with XCode, Python, Appium and Selenium</li>
                 </ul>
                 <div className="mt-4 flex flex-wrap gap-2">
                   <span className="px-3 py-1 bg-indigo-500/10 text-indigo-400 rounded-full text-xs font-medium">Quality Assurance</span>
