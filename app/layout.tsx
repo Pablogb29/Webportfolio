@@ -9,11 +9,8 @@ export const metadata: Metadata = {
     default: "Pablo - InfoSec",
     template: "%s | pabloinfosec.com",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
   openGraph: {
     title: "pabloinfosec.com",
-    description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
     url: "https://pabloinfosec.com",
     siteName: "pabloinfosec.com",
     images: [

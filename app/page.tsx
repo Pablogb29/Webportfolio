@@ -61,13 +61,13 @@ export default function Home() {
                 <p className="text-zinc-300 text-lg leading-relaxed mb-4">
                   I am a Telecommunications Engineer who specializes in <span className="text-blue-400 font-medium"> Cybersecurity and Artificial Intelligence</span> , driven by a lifelong passion for technology and digital protection.</p>
                 <p className="text-zinc-400 leading-relaxed mb-4">
-                  On the cybersecurity front, I have recently completed a master's degree in the field and am actively preparing for the <span className="text-blue-400 font-medium">eJPTv2</span> and, later this year, the <span className="text-blue-400 font-medium">OSCP</span> certification. Although I am still seeking my first professional role in cybersecurity, I have been fully committed to the discipline for years—building skills through hands-on labs, weekly CTFs, and real-world projects that feed my curiosity and problem-solving mindset.
+                  I am currently preparing for the <span className="text-blue-400 font-medium">eJPTv2</span> and, later this year, the <span className="text-blue-400 font-medium">OSCP</span> certification. Although I am seeking my first professional role in cybersecurity, I have been fully dedicated to this domain for years, driven by a strong analytical mindset and a deep interest in system security, threat modeling, and offensive techniques.
                 </p>
                 <p className="text-zinc-400 leading-relaxed mb-4">
                   In parallel, I have developed and deployed several AI models, but my main focus lies in leveraging existing AI systems to automate workflows, enhance decision-making, and boost productivity in cybersecurity and software validation tasks.
                 </p>
                 <p className="text-zinc-400 leading-relaxed">
-                What sets me apart is my <span className="text-blue-400 font-medium">constant drive to improve</span>—not only myself, but those around me. I thrive in team environments, love mentoring and being mentored, and naturally take on leadership roles that encourage collaboration, innovation, and growth.
+                What defines me is my <span className="text-blue-400 font-medium">constant drive to improve</span>—both individually and within teams. I naturally step into leadership roles that foster collaboration, innovation, and growth. I enjoy mentoring and being mentored, and I thrive in environments that challenge me intellectually.
                 </p>
                 <p className="text-zinc-400 leading-relaxed">
                 Outside of work, you will find me <span className="text-blue-400 font-medium">running trails, skating obstacles, snowboarding down mountains, playing padel or pushing my limits in every sport that I train.</span> I am also a lifelong gamer and avid reader with a strong interest in <span className="text-blue-400 font-medium">economics, psychology, politics, and emerging technologies</span>. I believe true excellence comes from a balance of curiosity, discipline, and play—and I bring that mindset to everything I do.
@@ -299,7 +299,7 @@ export default function Home() {
         />
         <div className="container mx-auto">
           <h2 className="text-3xl font-bold text-zinc-100 mb-8 text-center animate-fade-in">Professional Experience</h2>
-          <div className="relative max-w-3xl mx-auto space-y-12">
+          <div className="relative max-w-5xl mx-auto space-y-12">
             {/* Timeline line - now with pulsing effect */}
             <div className="absolute left-0 top-0 bottom-0 w-px bg-gradient-to-b from-blue-500 via-blue-500/50 to-transparent -translate-x-1/2"></div>
             
@@ -405,7 +405,7 @@ export default function Home() {
         />
         <div className="container mx-auto">
           <h2 className="text-3xl font-bold text-zinc-100 mb-8 text-center animate-fade-in">Education</h2>
-          <div className="relative max-w-3xl mx-auto space-y-12">
+          <div className="relative max-w-5xl mx-auto space-y-12">
             {/* Timeline line */}
             <div className="absolute left-0 top-0 bottom-0 w-px bg-gradient-to-b from-green-500 via-green-500/50 to-transparent -translate-x-1/2"></div>
             
