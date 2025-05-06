@@ -617,7 +617,7 @@ export default function Home() {
                 </span>
                 <div className="z-10 flex flex-col items-center">
                   <span className="text-xl font-medium duration-150 text-zinc-200 group-hover:text-white font-display">
-                    MokaCat
+                    Moka29
                   </span>
                   <span className="mt-2 text-sm text-center duration-1000 text-zinc-400 group-hover:text-zinc-200">
                     Hack The Box
